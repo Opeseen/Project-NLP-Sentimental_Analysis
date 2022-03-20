@@ -1,6 +1,6 @@
 # Project-NLP-Sentimental_Analysis
 
-## Sentimental analysis on AMAZON product - this analysis helps to understand what the users are saying comcerning the product they bought from amazon store.
+## Sentimental analysis on AMAZON product - this analysis helps to understand what the users are saying concerning the product they bought from amazon store.
 
 ### This analysis is done with two programming language. _Python and R -programming Language_
 
